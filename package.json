@@ -1,0 +1,19 @@
+{
+  "name": "fbnotication",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "firebase-admin": "^13.0.1",
+    "nodemon": "^3.1.7",
+    "react-native-gifted-chat": "^2.6.4",
+    "react-native-safe-area-context": "^5.0.0",
+    "react-native-typing-animation": "^0.1.7"
+  }
+}
